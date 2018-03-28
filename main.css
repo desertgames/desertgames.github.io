@@ -1,0 +1,68 @@
+html {
+	font-family: 'Roboto', sans-serif;
+	background:
+	linear-gradient(27deg, #151515 5px, transparent 5px) 0 5px,
+	linear-gradient(207deg, #151515 5px, transparent 5px) 10px 0px,
+	linear-gradient(27deg, #222 5px, transparent 5px) 0px 10px,
+	linear-gradient(207deg, #222 5px, transparent 5px) 10px 5px,
+	linear-gradient(90deg, #1b1b1b 10px, transparent 10px),
+	linear-gradient(#1d1d1d 25%, #1a1a1a 25%, #1a1a1a 50%, transparent 50%, transparent 75%, #242424 75%, #242424);
+	background-color: #131313;
+	background-size: 20px 20px;
+	color: #FF0000;
+}
+
+p.normal {
+	text-shadow: 0px 0px 15px black;
+	font-size: 20px;
+
+}
+
+pre {
+	margin-left: -60px;
+	font-family: 'Roboto', sans-serif;
+}
+
+a {
+	text-decoration: none;
+	color: #FF0000;
+	text-shadow: 0px 0px 20px red;
+}
+
+a.big {
+	font-size: 35px;
+	text-decoration: none;
+}
+
+a.button {
+	margin-top: 400px;
+	text-shadow: 0px 0px 50px red;
+	font-size: 100px;
+	border-style: solid;
+	border-width: 5px;
+	border-radius: 100px;
+	padding-right: 25px;
+	padding-left: 25px;
+
+}
+
+hr.top {
+	margin-top: -15px;
+	border-color: #FF0000;
+	margin-left: -100px;
+	margin-right: -100px;
+}
+
+hr.bottom {
+	margin-top: 9px;
+	border-color: #FF0000;
+	margin-left: -100px;
+	margin-right: -100px;
+
+}
+
+embed {
+	margin-right: -20px;
+
+}
+	html, body {margin: 0; height: 100%; overflow: hidden}
